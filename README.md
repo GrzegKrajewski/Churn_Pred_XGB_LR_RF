@@ -1,4 +1,4 @@
-## Title: Churn Prediction Project with Linear Regression, Random Forest, and XGBoost in Python
+## Churn Prediction Project with Linear Regression, Random Forest, and XGBoost in Python
 
 ### Introduction:
 Welcome to my GitHub repository showcasing a churn prediction project developed in Python. In this project, I leveraged machine learning techniques, specifically Linear Regression, Random Forest, and XGBoost, to build predictive models for customer churn. This bio provides an overview of the project's objectives, methods, and outcomes.
